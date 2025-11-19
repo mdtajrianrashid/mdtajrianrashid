@@ -4,7 +4,7 @@
 
 ---
 
-![Github Banner](/Github Banner.png)
+![GitHub Banner](./github-banner.png)
 
 ---
 
